@@ -37,6 +37,6 @@
       "requireParamDescription": false,
       "requireReturnType": true
       }],
-    "guard-for-in": 1,
-  },
+    "guard-for-in": 1
+  }
 }
